@@ -1,3 +1,5 @@
+git clone (SSH) (il luati de pe github)
+
 ca sa adaugati
 git add .
 git commit -m "ceva mesaj"
