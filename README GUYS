@@ -1,0 +1,6 @@
+ca sa adaugati
+git add .
+git commit -m "ceva mesaj"
+git push
+
+inainte sa lucrati da-ti un git pull
